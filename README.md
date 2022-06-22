@@ -7,4 +7,4 @@ Going through basic git push, firebase hosting, and basit git format.
 - Basic Git formating
 
 ## Demo Link
-Here is a (live demo)[https://elyd-testproject.web.app] of my project.
+Here is a [live demo](https://elyd-testproject.web.app) of my project.
